@@ -1,7 +1,7 @@
 hi, i'm limelier
 
 - I'm a computer science student at the Iasi Faculty of Computer Science.
-- I code things, look around!
+- I've been known to code a thing or two.
 - I also have a few other hobbies:
   - drawing: [twitter](https://twitter.com/limelier_draws)
   - playing :b:ideo games
